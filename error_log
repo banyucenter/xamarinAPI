@@ -1,0 +1,226 @@
+[10-Oct-2017 12:42:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[10-Oct-2017 12:42:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'u9801493_xamarin'@'localhost' (using password: YES) in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[10-Oct-2017 12:42:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[10-Oct-2017 12:42:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 08:50:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 08:50:32 UTC] PHP Notice:  Undefined index: password in /home/u9801493/public_html/xamarin/login.php on line 6
+[11-Oct-2017 08:50:32 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/login.php on line 14
+[11-Oct-2017 08:50:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 08:50:32 UTC] PHP Notice:  Undefined index: password in /home/u9801493/public_html/xamarin/login.php on line 6
+[11-Oct-2017 08:50:32 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/login.php on line 14
+[11-Oct-2017 08:50:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 08:50:35 UTC] PHP Notice:  Undefined index: password in /home/u9801493/public_html/xamarin/login.php on line 6
+[11-Oct-2017 08:50:35 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/login.php on line 14
+[11-Oct-2017 08:50:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 08:50:44 UTC] PHP Notice:  Undefined index: password in /home/u9801493/public_html/xamarin/login.php on line 6
+[11-Oct-2017 08:50:44 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/login.php on line 14
+[11-Oct-2017 08:52:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 08:53:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:33:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:36:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:38:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:40:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:41:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:41:31 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 09:42:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:42:46 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 09:45:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 09:45:44 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:37:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:37:46 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:39:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:39:34 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:50:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:50:58 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:50:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:52:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:52:28 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:52:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:53:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:53:44 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:53:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:53:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:53:53 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:53:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:59:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:59:28 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 13:59:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 13:59:55 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:00:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:00:03 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:00:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:02:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:02:26 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:02:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:04:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:04:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:04:59 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:05:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:05:01 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/load.php on line 5
+[11-Oct-2017 14:05:01 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/load.php on line 6
+[11-Oct-2017 14:06:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:06:32 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:06:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:06:34 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/load.php on line 5
+[11-Oct-2017 14:06:34 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/load.php on line 6
+[11-Oct-2017 14:06:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:06:40 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:06:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:06:41 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/load.php on line 5
+[11-Oct-2017 14:06:41 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/load.php on line 6
+[11-Oct-2017 14:09:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:09:58 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:10:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:12:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:12:36 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:12:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:57:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 14:57:27 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 14:57:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:15:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:15:33 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 15:15:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:16:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:16:47 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 15:16:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:16:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:59:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:59:30 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 15:59:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 15:59:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:02:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:02:56 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:03:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:05:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:05:46 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:05:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:05:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:10:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:10:15 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:10:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:12:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:12:36 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:12:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:13:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:13:36 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:13:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:18:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:18:06 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:18:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:21:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:21:24 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:21:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:21:24 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:21:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:28:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:28:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:29:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:33:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:33:36 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:33:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:33:37 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:33:37 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:35:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:35:04 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:35:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:35:06 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:35:06 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:35:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:35:12 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:35:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:35:13 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:35:13 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:40:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:40:52 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:40:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:40:54 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:40:54 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:42:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:42:01 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:42:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:42:02 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:42:02 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:42:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:42:31 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:42:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:42:32 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:42:32 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:43:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:43:38 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:43:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:43:40 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:43:40 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:43:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:43:54 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:43:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:43:56 UTC] PHP Notice:  Undefined index: id in /home/u9801493/public_html/xamarin/produk.php on line 5
+[11-Oct-2017 16:43:56 UTC] PHP Notice:  Undefined variable: output in /home/u9801493/public_html/xamarin/produk.php on line 13
+[11-Oct-2017 16:57:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:58:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:58:53 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 16:58:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 16:58:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:00:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:00:15 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:00:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:00:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:00:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:00:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:02:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:02:29 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:02:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:02:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:03:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:03:39 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:03:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:03:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:04:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:04:05 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:04:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:04:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:04:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:04:28 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:04:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:05:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:05:36 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:05:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:05:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:06:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:12:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:12:21 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:12:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:12:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:12:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:16:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:16:44 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:16:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:16:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:21:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:21:32 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 17:21:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 17:21:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:03:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:03:27 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 18:03:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:03:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:03:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:04:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:04:22 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 18:04:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:04:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:27:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:28:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:28:11 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[11-Oct-2017 18:28:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:28:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:28:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:28:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[11-Oct-2017 18:28:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[12-Oct-2017 02:32:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[12-Oct-2017 02:36:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[12-Oct-2017 02:36:18 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[12-Oct-2017 02:36:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[12-Oct-2017 02:36:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[12-Oct-2017 02:50:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
+[12-Oct-2017 02:50:29 UTC] PHP Notice:  Undefined index: id_level in /home/u9801493/public_html/xamarin/login.php on line 7
+[12-Oct-2017 02:50:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u9801493/public_html/xamarin/koneksi.php on line 8
